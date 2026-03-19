@@ -1,2 +1,3 @@
-# ultra-e-learning-u0n6
-An online learning platform for modern development workflows
+# Ultra E Learning U0N6
+
+A online learning platform for modern development workflows.
